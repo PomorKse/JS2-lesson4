@@ -1,5 +1,3 @@
-// Задание 1
-
 let text = `'One: 'Hi Mary.' Two: 'Oh, hi.'
 One: 'How are you doing?'
 Two: 'I'm doing alright. How about you?'
